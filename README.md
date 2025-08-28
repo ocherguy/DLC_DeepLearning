@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository accompanies the article "Deep Learning Prediction of Dry Friction in DLC Coatings Using Literature-Derived Data", and demonstrate a complete machine learning pipeline applied to friction coefficient prediction, including:
+This repository accompanies the article "Deep Learning Prediction of Dry Friction in DLC Coatings Using Literature-Derived Data" [https://doi.org/10.1007/s11249-025-02056-2](https://doi.org/10.1007/s11249-025-02056-2) , and demonstrate a complete machine learning pipeline applied to friction coefficient prediction, including:
 -Data preprocessing
 -Training multiple models (Random Forest, Extra trees, XGBoost, SVM, KNN,ANN with tensorflow)
 -Performance evaluation (RMSE,MAE,R²)
@@ -35,7 +35,6 @@ The repository is organised as follows:
 - metrics
 - figures
 4. **Use pretrained models
-
    Trained models are available for direct use
 
 ## Licence
