@@ -1,0 +1,16 @@
+# Core scientific libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+shap
+tensorflow
+
+# Excel support
+openpyxl
