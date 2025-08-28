@@ -19,7 +19,6 @@ The repository is organised as follows:
 - 'Trained models/': trained models ('.h5')
 - 'Docs/': additional documents and logos
 - 'requirements.txt': python dependencies
-- 'LICENCE': CC-BY 4.0 licence
 
 ---
 
@@ -35,14 +34,6 @@ The repository is organised as follows:
 - figures
 4. **Use pretrained models**
 - Trained models are available for direct use
-
----
-
-## Licence
-
-This repository is distributed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.
-
-Full text: https://creativecommons.org/licenses/by/4.0/legalcode
 
 ---
 
