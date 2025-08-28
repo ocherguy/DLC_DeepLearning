@@ -1,8 +1,5 @@
 
-# DLC_DeepLearning
-
-
-
+# Deep Learning Prediction of Dry Friction in DLC Coatings Using Literature-Derived Data
 
 ## Overview
 
