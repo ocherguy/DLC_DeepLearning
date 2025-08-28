@@ -2,8 +2,9 @@
 # DLC_DeepLearning
 <p align="center">
   <img src="Docs/MinesParis_Cemef_bleu.png" alt="Mines Paris" height="160" style="vertical-align:middle; margin-right:20px"/>
-  <img src="Docs/imra.png" alt="IMRA Europe" height="80" style="vertical-align:middle"/>
+  <img src="Docs/imra.png" alt="IMRA Europe" height="100" style="vertical-align:middle"/>
 </p>
+
 
 
 ## Overview
