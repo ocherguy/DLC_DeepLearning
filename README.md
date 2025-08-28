@@ -41,7 +41,6 @@ The repository is organised as follows:
 ## Licence
 
 This repository is distributed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.
-You are free to use, modify and redistribute this work, including for commercial purposes, as long as you cite the associated article.
 
 Full text: https://creativecommons.org/licenses/by/4.0/legalcode
 
