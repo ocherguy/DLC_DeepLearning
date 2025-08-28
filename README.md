@@ -14,7 +14,7 @@ This repository accompanies the article "Deep Learning Prediction of Dry Frictio
 ⚠️ **A reduced sample dataset is provided in the repository to reproduce the methodology**
 
 The repository is organised as follows:
-- 'data/': DLC dataset ()
+- 'data/': DLC dataset ([Download the dataset](./data/CHERGUY_DLC_dataset.xlsx))
 - 'Script/TriboAI_pipeline_demo.py': main executable script
 - 'Results/': generated metrics and figures
 - 'Trained models/': trained models ('.h5')
