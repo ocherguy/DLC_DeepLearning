@@ -1,6 +1,9 @@
 
 # DLC_DeepLearning
-
+<p align="center">
+  <img src="Docs/MinesParis_Cemef_bleu.png" alt="Mines Paris" height="80" style="margin-right:20px"/>
+  <img src="Docs/imra.png" alt="IMRA Europe" height="80"/>
+</p>
 
 ## Overview
 
@@ -14,13 +17,13 @@ This repository accompanies the article "Deep Learning Prediction of Dry Frictio
 ⚠️ **A reduced sample dataset is provided in the repository to reproduce the methodology**
 
 The repository is organised as follows:
-- 'data/': DLC dataset ([Download the dataset](./Data/Cherguy___al_DLC_dataset.xlsx))
+- 'Data/': DLC dataset ([Download the dataset](./Data/Cherguy___al_DLC_dataset.xlsx))
 - 'Script/TriboAI_pipeline_demo.py': main executable script
 - 'Results/': generated metrics and figures
 - 'Trained models/': trained models ('.h5')
-- 'docs/': additional documents and logos
+- 'Docs/': additional documents and logos
 - 'requirements.txt': python dependencies
-- 'Licence': CC-BY 4.0 licence
+- 'LICENCE': CC-BY 4.0 licence
 
 ---
 
