@@ -29,7 +29,7 @@ The repository is organised as follows:
 1. **Install dependencies
 '''bash
    pip install -r requirements.txt
-***
+
 2. **Run the pipeline
 3. **Generated outputs
 - metrics
