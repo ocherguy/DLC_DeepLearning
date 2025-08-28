@@ -25,15 +25,15 @@ The repository is organised as follows:
 
 ## Usage
 
-1. **Install dependencies
+1. **Install dependencies**
    
    >pip install -r requirements.txt
 
-2. **Run the pipeline
-3. **Generated outputs
+2. **Run the pipeline**
+3. **Generated outputs**
 - metrics
 - figures
-4. **Use pretrained models
+4. **Use pretrained models**
    Trained models are available for direct use
 
 ---
@@ -71,9 +71,9 @@ This work is supported by Mines Paris-PSL (CEMEF), IMRA Europe and Fondation de 
 
 ## Team and contacts
 
-| Name                     | Affiliation             | LinkedIn                                                             | GitHub                                |
-| ------------------------ | ----------------------- | -------------------------------------------------------------------- | ------------------------------------- |
-| **Oussama Cherguy**      | **Mines Paris – CEMEF** | [LinkedIn](https://www.linkedin.com/in/oussama-c-10a695136/)         | [GitHub](https://github.com/ocherguy) |
-| **Radoslaw Chmielowski** | **IMRA Europe**         | [LinkedIn](https://www.linkedin.com/in/rchmielowski/)                | —                                     |
-| **Elie Hachem**          | **Mines Paris – CEMEF** | [LinkedIn](https://www.linkedin.com/in/ehachem/)                     | —                                     |
-| **Imène Lahouij**        | **Mines Paris – CEMEF** | [LinkedIn](https://www.linkedin.com/in/im%C3%A8ne-lahouij-75833a54/) | —                                     |
+| Name                     | Affiliation                 | LinkedIn                                                             | GitHub                                |
+| ------------------------ | --------------------------- | -------------------------------------------------------------------- | ------------------------------------- |
+| **Oussama Cherguy**      | **Mines Paris-PSL – CEMEF** | [LinkedIn](https://www.linkedin.com/in/oussama-c-10a695136/)         | [GitHub](https://github.com/ocherguy) |
+| **Radoslaw Chmielowski** | **IMRA Europe**             | [LinkedIn](https://www.linkedin.com/in/rchmielowski/)                | —                                     |
+| **Elie Hachem**          | **Mines Paris–PSL - CEMEF** | [LinkedIn](https://www.linkedin.com/in/ehachem/)                     | —                                     |
+| **Imène Lahouij**        | **Mines Paris-PSL – CEMEF** | [LinkedIn](https://www.linkedin.com/in/im%C3%A8ne-lahouij-75833a54/) | —                                     |
