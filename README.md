@@ -1,9 +1,6 @@
 
 # DLC_DeepLearning
-<p align="center">
-  <img src="Docs/MinesParis_Cemef_bleu_2.png" alt="Mines Paris" height="80" style="vertical-align:middle; margin-right:20px"/>
-  <img src="Docs/imra.png" alt="IMRA Europe" height="80" style="vertical-align:middle"/>
-</p>
+
 
 
 
@@ -62,7 +59,11 @@ If you use this repository, please cite the following article:
 The team is grateful to Pierre Montmitonnet for his valuable insights and advices on the construction of the dataset and the normalization of the tribological data.
 
 This work is supported by Mines Paris-PSL (CEMEF), IMRA Europe and Fondation de la Maison de la Chimie
-
+<p align="center">
+  <img src="Docs/MinesParis_Cemef_bleu_2.png" alt="Mines Paris" height="80" style="vertical-align:middle; margin-right:20px"/>
+  <img src="Docs/imra.png" alt="IMRA Europe" height="80" style="vertical-align:middle"/>
+  <img src="Docs/maison_de_la_chimie.png" alt="Fondation Maison de la Chimie" height="80" style="vertical-align:middle"/>
+</p>
 
 
 ## Team and contacts
