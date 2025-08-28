@@ -35,7 +35,8 @@ The repository is organised as follows:
 - metrics
 - figures
 4. **Use pretrained models
-Trained models are available for direct use
+
+   Trained models are available for direct use
 
 ## Licence
 
