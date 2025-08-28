@@ -23,15 +23,17 @@ The table presents the models performance based on statistical metrics
 ![ET Pred vs Actual](Results/Figures/Predicted_vs_Actual_Friction_coefficient/Predicted_vs_actual_CoF_ExtraTrees.png)
 
 ###SHAP analysis
+
 ![ET SHAP](Results/Figures/SHAP_analysis/SHAP_ExtraTrees.png)
 
 ##Figure_models comparison
+
+Models comparison using statistical metrics
+
 ###RMSE
 ![RMSE-Models comparison](Results/Figures/Models_comparison/Models_comparison_RMSE.png)
-
 ###MAE
 ![MAE-Models comparison](Results/Figures/Models_comparison/Models_comparison_MAE.png)
-
 ###R²
 ![R²-Models comparison](Results/Figures/Models_comparison/Models_comparison_R_.png)
 
