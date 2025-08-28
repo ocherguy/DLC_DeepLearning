@@ -13,7 +13,7 @@ This repository showcases a machine learning pipeline described in the article "
 ⚠️ **A reduced sample dataset is provided in the repository to reproduce the methodology (Will be updated with additional data as the project evolves)**
 
 The repository is organised as follows:
-- 'Data/': DLC dataset ([Download the dataset](./Data/Cherguy___al_DLC_dataset.xlsx))
+- 'Data/': DLC dataset ([Download the dataset](./Data/Cherguy_and_al_DLC_dataset.xlsx))
 - 'Script/TriboAI_pipeline_demo.py': main executable script
 - 'Results/': generated metrics and figures
 - 'Trained models/': trained models ('.h5')
