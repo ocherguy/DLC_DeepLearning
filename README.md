@@ -59,7 +59,7 @@ If you use this repository, please cite the following article:
 ---
 
 ## Acknowledgment
-The team is grateful to Pierre Montmitonnet for his valuable insights and advices on the construction of the dataset and the normalization of the tribological data.
+The team is grateful to **Pierre Montmitonnet** for his valuable insights and advices on the construction of the dataset and the normalization of the tribological data.
 
 This work is supported by Mines Paris-PSL (CEMEF), IMRA Europe and Fondation de la Maison de la Chimie
 <p align="center">
