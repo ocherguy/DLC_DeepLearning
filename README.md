@@ -5,22 +5,22 @@
 ## Overview
 
 This repository accompanies the article "Deep Learning Prediction of Dry Friction in DLC Coatings Using Literature-Derived Data" [https://doi.org/10.1007/s11249-025-02056-2](https://doi.org/10.1007/s11249-025-02056-2) , and demonstrate a complete machine learning pipeline applied to friction coefficient prediction, including:
-   -Data preprocessing
-   -Training multiple models (Random Forest, Extra trees, XGBoost, SVM, KNN,ANN with tensorflow)
-   -Performance evaluation (RMSE,MAE,R²)
-   -Interpretability with SHAP
-   -Visualization of the results
+- Data preprocessing
+- Training multiple models (Random Forest, Extra trees, XGBoost, SVM, KNN,ANN with tensorflow)
+- Performance evaluation (RMSE,MAE,R²)
+- Interpretability with SHAP
+- Visualization of the results
 
 ⚠️ **A reduced sample dataset is provided in the repository to reproduce the methodology**
 
 The repository is organised as follows:
-   -'data/': DLC dataset ()
-   -'Script/TriboAI_pipeline_demo.py': main executable script
-   -'Results/': generated metrics and figures
-   -'Trained models/': trained models ('.h5')
-   -'docs/': additional documents and logos
-   -'requirements.txt': python dependencies
-   -'Licence': CC-BY 4.0 licence
+- 'data/': DLC dataset ()
+- 'Script/TriboAI_pipeline_demo.py': main executable script
+- 'Results/': generated metrics and figures
+- 'Trained models/': trained models ('.h5')
+- 'docs/': additional documents and logos
+- 'requirements.txt': python dependencies
+- 'Licence': CC-BY 4.0 licence
 
 ---
 
