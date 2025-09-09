@@ -2,7 +2,8 @@
 
 
 ⚠️ **Notice**
-This GitHub repository is **not the main source**.  
+This GitHub repository is **not the main source**
+
 The main repository is hosted on [GitLab Mines Paris](https://git.sophia.minesparis.psl.eu/oussama.cherguy/dlc_deeplearning).  
 
 Please refer to the GitLab repository for the latest updates, issues, and contributions.  
